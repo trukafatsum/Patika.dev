@@ -54,3 +54,13 @@ Sıralandıktan sonra : __18 -> Avarage Case__ | 27 -> Worst Case | 2 -> Best Ca
 x = logn
 
 __O(nlogn)__
+
+
+#	Binary Search Tree Proje
+
+## Proje 3
+
+> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+>> Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+![](https://imgur.com/8Lmglfv.png)
