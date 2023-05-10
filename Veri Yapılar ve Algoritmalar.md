@@ -32,3 +32,25 @@ Sıralandıktan sonra : __18 -> Avarage Case__ | 27 -> Worst Case | 2 -> Best Ca
 * [2,3,5,8,7,9,4,15,6]
 * [2,3,4,8,7,9,5,15,6]
 * [2,3,4,5,7,9,8,15,6]
+
+#	Merge Sort Proje
+
+## Proje 2
+
+> [16,21,11,8,12,22] -> Merge Sort
+>> Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+*	[16,21,11] [8,12,22]
+*	[16] [21,11] [8,12] [22]
+*	[16] [21] [11] [8] [12] [22]
+*	[16] [11,21] [8,12] [22]
+*	[11,16,21] [8,12,22]
+*	[8,11,12,16,21,22]
+
+> Big-O gösterimini yazınız.
+
+2^x = n
+
+x = logn
+
+__O(nlogn)__
